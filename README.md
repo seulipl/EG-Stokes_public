@@ -10,9 +10,9 @@ an open-source MATLAB finite element package by Long Chen (GNU GPL v3).
 
 - **Stokes/**  
   Main scripts for running Stokes problem solvers:  
-  - `Stokes2.m`, `Stokes3.m`: core solvers  
-  - `main_EG2.m`, `main_EGWG2.m`: driver scripts  
-  - `main_EG3.m`, `main_EGWG3.m`: driver scripts  
+  - `Stokes2.m`, `Stokes3.m`: sample problem information
+  - `main_EG2.m`, `main_EG3.m`: core solvers in 2D and 3D using pressure-robust EG methods
+  - `main_EGWG3.m`, `main_EGWG3.m`: core solvers in 2D and 3D using pressure-robust modified EG methods
 
 - **iFEM_files/**  
   Essential iFEM routines included here for convenience:  
