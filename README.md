@@ -1,8 +1,6 @@
 # Stokes FEM Codes (based on iFEM)
 
-This repository contains MATLAB codes for solving Stokes problems using pressure-robust Enriched Galerkin (EG) finite element methods.
-It is built on top of selected routines from [iFEM](https://www.math.uci.edu/~chenlong/programming.html),
-an open-source MATLAB finite element package by Long Chen (GNU GPL v3).
+This repository contains MATLAB codes for solving Stokes problems using pressure-robust Enriched Galerkin (EG) finite element methods. It is built on top of selected routines from [iFEM](https://www.math.uci.edu/~chenlong/programming.html), an open-source MATLAB finite element package by Long Chen (GNU GPL v3).
 
 ---
 
