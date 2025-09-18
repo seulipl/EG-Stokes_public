@@ -9,8 +9,8 @@ This repository contains MATLAB codes for solving Stokes problems using pressure
 - **Stokes/**  
   Main scripts for running Stokes problem solvers:  
   - `Stokes2.m`, `Stokes3.m`: sample problem information
-  - `main_EG2.m`, `main_EG3.m`: core solvers in 2D and 3D using [pressure-robust EG methods](https://doi.org/10.1016/j.cam.2023.115449).
-  - `main_EGWG3.m`, `main_EGWG3.m`: core solvers in 2D and 3D using pressure-robust modified EG methods
+  - `main_EG2.m`, `main_EG3.m`: core Stokes solvers in 2D and 3D using [pressure-robust EG methods](https://doi.org/10.1016/j.cam.2023.115449).
+  - `main_EGWG3.m`, `main_EGWG3.m`: core Stokes solvers in 2D and 3D using [pressure-robust modified EG methods](https://doi.org/10.1016/j.camwa.2024.04.023).
 
 - **iFEM_files/**  
   Essential iFEM routines included here for convenience:  
