@@ -37,3 +37,20 @@ Since iFEM is also licensed under GPL v3, redistribution and modifications are p
   > Copyright (C) Seulip Lee <seulip.lee@tufts.edu>, Lin Mu <linmu@uga.edu>
 
 See the [LICENSE](LICENSE) file for full details.
+
+---
+
+## 📖 Citation
+
+If you use this repository in your research, please cite the following paper:
+
+```bibtex
+@article{hu2024pressure,
+  title={Pressure-robust enriched Galerkin methods for the Stokes equations},
+  author={Hu, Xiaozhe and Lee, Seulip and Mu, Lin and Yi, Son-Young},
+  journal={Journal of Computational and Applied Mathematics},
+  volume={436},
+  pages={115449},
+  year={2024},
+  publisher={Elsevier}
+}
