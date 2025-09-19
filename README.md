@@ -44,6 +44,10 @@ See the [LICENSE](LICENSE) file for full details.
 
 If you use this repository in your research, please cite the following paper:
 
+- X. Hu, S. Lee, L. Mu, and S.-Y. Yi (2024). *Pressure-robust enriched Galerkin methods for the Stokes equations*. Journal of Computational and Applied Mathematics. [doi.org/10.1016/j.cam.2023.115449](doi.org/10.1016/j.cam.2023.115449).
+
+BibTeX entries:
+
 ```bibtex
 @article{hu2024pressure,
   title={Pressure-robust enriched Galerkin methods for the Stokes equations},
@@ -51,6 +55,16 @@ If you use this repository in your research, please cite the following paper:
   journal={Journal of Computational and Applied Mathematics},
   volume={436},
   pages={115449},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{lee2024low,
+  title={A low-cost, penalty parameter-free, and pressure-robust enriched Galerkin method for the Stokes equations},
+  author={Lee, Seulip and Mu, Lin},
+  journal={Computers \& Mathematics with Applications},
+  volume={166},
+  pages={51--64},
   year={2024},
   publisher={Elsevier}
 }
